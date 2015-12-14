@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user type="Basic">
+        <name>prova1</name>
+        <surname>prova1</surname>
+        <username>utenteprova</username>
+        <password>asdasd</password>
+        <genre>F</genre>
+        <city>Roma</city>
+        <email>prova1@hotmail.it</email>
+        <birth>1993-01-13</birth>
+        <qualifications>
+            <qualification>abcd</qualification>
+        </qualifications>
+        <contacts>
+            <contact>aiacobuc</contact>
+        </contacts>
+    </user>
+    <user type="Basic">
+        <name>prova2</name>
+        <surname>cognome</surname>
+        <username>utenteprova2</username>
+        <password>asdasd</password>
+        <genre>M</genre>
+        <city>Mantova</city>
+        <email>prova2@gmail.com</email>
+        <birth>1990-04-03</birth>
+        <qualifications/>
+        <contacts/>
+    </user>
+    <user type="Executive">
+        <name>Antonio</name>
+        <surname>Iacobucci</surname>
+        <username>aiacobuc</username>
+        <password>prova1</password>
+        <genre>M</genre>
+        <city>Padova</city>
+        <email>aiacobuc@gmail.it</email>
+        <birth>1990-10-31</birth>
+        <qualifications>
+            <qualification>qual1</qualification>
+            <qualification>qual3</qualification>
+            <qualification>qual2</qualification>
+        </qualifications>
+        <contacts>
+            <contact>asdf</contact>
+            <contact>utenteprova</contact>
+            <contact>utenteprova2</contact>
+        </contacts>
+    </user>
+    <user type="Business">
+        <name></name>
+        <surname></surname>
+        <username>asdf</username>
+        <password>dsadsa</password>
+        <genre></genre>
+        <city></city>
+        <email></email>
+        <birth></birth>
+        <qualifications/>
+        <contacts/>
+    </user>
+    <user type="Executive">
+        <name></name>
+        <surname></surname>
+        <username>asdfh</username>
+        <password>asdasd</password>
+        <genre></genre>
+        <city></city>
+        <email></email>
+        <birth></birth>
+        <qualifications/>
+        <contacts/>
+    </user>
+    <user type="Executive">
+        <name>Pietro</name>
+        <surname>Iacobucci</surname>
+        <username>peterassassin</username>
+        <password>uninn00</password>
+        <genre>F</genre>
+        <city>uninn</city>
+        <email>uninn</email>
+        <birth>2000-04-24</birth>
+        <qualifications>
+            <qualification>ricchione</qualification>
+            <qualification>assai</qualification>
+        </qualifications>
+        <contacts>
+            <contact>aiacobuc</contact>
+        </contacts>
+    </user>
+    <user type="Basic">
+        <name>Maria</name>
+        <surname>Maddalena</surname>
+        <username>madaleine</username>
+        <password>wawawa</password>
+        <genre>F</genre>
+        <city>gesu</city>
+        <email>fhoisafisahoif</email>
+        <birth></birth>
+        <qualifications>
+            <qualification>cretina</qualification>
+        </qualifications>
+        <contacts>
+            <contact>peterassassin</contact>
+        </contacts>
+    </user>
+    <user type="Executive">
+        <name>Lorenzo</name>
+        <surname>Ferdinandi</surname>
+        <username>okarina</username>
+        <password>okarinomane</password>
+        <genre>F</genre>
+        <city>oka</city>
+        <email>ahnlsio</email>
+        <birth>1990-10-10</birth>
+        <qualifications>
+            <qualification>un po' cazzo</qualification>
+            <qualification>asdad</qualification>
+        </qualifications>
+        <contacts>
+            <contact>aiacobuc</contact>
+            <contact>peterassassin</contact>
+        </contacts>
+    </user>
+</users>
